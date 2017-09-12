@@ -1,0 +1,4 @@
+name: kubernetes-service-influxdb
+summary: Interface to ask a kubernetes service info
+version: 1
+repo: https://github.com:tengu-team/interface-kubernetes-service.git
